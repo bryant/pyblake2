@@ -20,7 +20,8 @@ $  python setup.py install
 
 ## TODO
 
--   speed
+-   speed it up
+-   keyed mode
 -   blake2s
 -   salts
--   tree hashing mode
+-   tree hashing
