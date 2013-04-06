@@ -1,6 +1,6 @@
 # pyblake2
 
-Implementation of (BLAKE2)[http://blake2.net] in pure Python.
+Implementation of [BLAKE2](http://blake2.net) in pure Python.
 
 ## Installation
 
